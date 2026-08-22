@@ -2,7 +2,6 @@
     "about": {
         "name": "Ahmed Fathallah",
         "tagline": "ML Engineer | Data Analyst",
-        "bio": "Data has a powerful story to tell, and I am passionate about turning that narrative into tangible impact. With a strong academic and practical foundation in Data Analytics and Machine Learning, I specialize in transforming complex, raw data into predictive models, strategic statistical insights, and impactful data visualizations. My vision is to bridge the gap between technical data complexity and real-world applications, ensuring every step is backed by precision and foresight.",
         "avatar": "imgavatar.jpg",
         "resume": "https://drive.google.com/file/d/1zk9j4_76J-fkxzYmIPkE_BBx4ppTG1ZT/view?usp=drive_link",
         "details": [
@@ -28,7 +27,7 @@
             },
             {
                 "emoji": "🤖",
-                "label": "ML & Analytics",
+                "label": "Machine Learning",
                 "value": "Scikit-Learn, NLP, Deep Learning, Predictive Models"
             },
             {
