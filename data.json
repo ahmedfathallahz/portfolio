@@ -1,0 +1,344 @@
+{
+    "about": {
+        "name": "Ahmed Fathallah",
+        "tagline": "ML Engineer | Data Analyst",
+        "bio": "Data has a powerful story to tell, and I am passionate about turning that narrative into tangible impact. With a strong academic and practical foundation in Data Analytics and Machine Learning, I specialize in transforming complex, raw data into predictive models, strategic statistical insights, and impactful data visualizations. My vision is to bridge the gap between technical data complexity and real-world applications, ensuring every step is backed by precision and foresight.",
+        "avatar": "imgavatar.jpg",
+        "resume": "https://drive.google.com/file/d/1zk9j4_76J-fkxzYmIPkE_BBx4ppTG1ZT/view?usp=drive_link",
+        "details": [
+           {
+                "emoji": "💼",
+                "label": "Current Role",
+                "value": "ML Engineer • Data Analyst"
+            },
+            {
+                "emoji": "🎓",
+                "label": "Experience",
+                "value": "3+ years of professional practice"
+            },
+            {
+                "emoji": "📍",
+                "label": "Location",
+                "value": "Alexandria, Egypt"
+            },
+            {
+                "emoji": "📊",
+                "label": "Data Analysis",
+                "value": "Excel, SQL, Pandas, NumPy, Tableau, Power BI"
+            },
+            {
+                "emoji": "🤖",
+                "label": "ML & Analytics",
+                "value": "Scikit-Learn, NLP, Deep Learning, Predictive Models"
+            },
+            {
+                "emoji": "🎯",
+                "label": "Objective",
+                "value": "Decision Support • KPI Optimization • Insights"
+            }
+        ],
+        "social": [
+            {
+                "id": "tt3",
+                "class": "linkedin-link",
+                "icon": "zmdi-linkedin",
+                "url": "https://www.linkedin.com/in/ahmedfathallahz/",
+                "label": "linkedin"
+            },
+            {
+                "id": "tt4",
+                "class": "github-link",
+                "icon": "zmdi-github",
+                "url": "https://github.com/ahmedfathallahz",
+                "label": "github"
+            }
+        ]
+    },
+    "whatIDo": [
+    {
+      "icon": "zmdi-chart",
+      "iconColor": "font-blue",
+      "title": "Data Analyst",
+      "description": "Empowering strategic decision-making by transforming complex, fragmented datasets into clear, actionable intelligence. Specializing in end-to-end data workflows, advanced collection, preprocessing, and exploratory analysis using Python, SQL, Excel, and Power Query. Combining statistical methodologies with high-impact visual storytelling through dynamic dashboards in Power BI and Tableau to bridge raw metrics with business growth."
+    },
+    {
+      "icon": "zmdi-settings",
+      "iconColor": "font-green",
+      "title": "Machine Learning Engineer",
+      "description": "Architecting and deploying scalable, applied machine learning solutions tailored for real-world search and analytics ecosystems. Building robust computational pipelines focused on advanced techniques including embeddings, clustering, intent classification, and opportunity scoring. Designing insight-to-action architectures that seamlessly connect predictive algorithms with strategic execution."
+    },
+    {
+      "icon": "zmdi-book",
+      "iconColor": "font-yellow",
+      "title": "Continuous Learner",
+      "description": "Relentlessly expanding technical depth across the data science and machine learning ecosystem. Actively mastering state-of-the-art Python architectural paradigms, advanced cloud-based data services, automated data pipelines, and cutting-edge predictive frameworks. Dedicated to continuous R&D and bridging theoretical algorithmic concepts with high-performance, real-world execution."
+    }
+     ],
+    "experience": [
+        {
+            "company": "Digital Egypt Pioneers Initiative | DEPI",
+            "role": "Data Analyst",
+            "location": "Egypt",
+            "period": "2026 – current",
+            "current": true,
+            "description": "Leveraging advanced tools including Excel, Power Query, and Python to execute comprehensive data collection, cleaning, and preprocessing workflows, utilizing SQL for robust data extraction and transformation. Developed dynamic visualizations, dashboards, and analytical reports using Power BI and Tableau. Applied statistical techniques and exploratory data analysis to generate actionable insights and support strategic decision-making, while integrating data governance, prompt engineering, and end-to-end execution through practical projects."
+        },
+        {
+            "company": "National Telecommunication Institute | NTI",
+            "role": "Data Analyst",
+            "location": "Egypt",
+            "period": "2026 – 2026",
+            "current": false,
+            "description": "Built a strong foundation in data analytics focusing on data collection, management, and preprocessing, utilizing various data sources, storage solutions, and essential SQL and Excel skills for data extraction and transformation alongside data cleaning techniques and Python and R for data manipulation. Advanced to data analysis, visualization, and statistical techniques for decision-making, applying these concepts through hands-on practical projects using Excel, Python, R, and industry-standard platforms like Tableau and Power BI."
+        },
+        {
+            "company": "FlyRank Corp",
+            "role": "ML Engineer",
+            "location": "Remote",
+            "period": "2026 – 2026",
+            "current": false,
+            "description": "Applied machine learning and advanced analytics to real-world data, focusing on embeddings, clustering, intent classification, and opportunity scoring. Designed and executed insight-to-action reporting workflows that bridge raw data metrics with strategic, decision-making objectives, moving beyond standard dashboard visualization to deliver high-impact predictive solutions."
+        }
+    ],
+  "skills": [
+    {
+      "group": "📊 Data Analyst",
+      "chips": [
+        "SQL",
+        "SAS",
+        "Tableau",
+        "Power BI",
+        "Microsoft Excel",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Python",
+        "R",
+        "AWS",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "ETL Processes"
+]
+    },
+    {
+      "group": "🤖 Machine Learning",
+      "chips": [
+        "Deep Learning",
+        "Computer Vision",
+        "NLP (Natural Language Processing)",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "XGBoost",
+        "LightGBM",
+        "CatBoost",
+        "Statsmodels",
+        "Hugging Face Transformers",
+        "OpenCV",
+        "NLTK",
+        "Spacy",
+        "Reinforcement Learning",
+        "Ensemble Methods",
+        "Hyperparameter Tuning",
+        "Dimensionality Reduction (PCA/LDA)",
+        "Model Evaluation & Validation",
+        "Neural Networks",
+        "Transfer Learning",
+        "Model Deployment",
+        "Feature Engineering"
+]
+    },
+    {
+      "group": "💻 Languages",
+      "chips": [
+        "Python",
+        "R",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "PHP",
+        "SQL",
+        "SAS",
+        "CSS"
+      ]
+    },
+    {
+      "group": "🧠 Skills",
+      "chips": [
+       "Problem Solving",
+       "Critical Thinking",
+       "Innovation",
+       "Business Intelligence",
+       "Data Storytelling",
+       "Root Cause Analysis",
+       "Market Research",
+       "Performance Tracking",
+       "Communication Skills",
+       "Attention to Detail",
+       "Time Management",
+       "Collaboration",
+       "Agile & Scrum",
+       "KPIs Development"
+      ]
+    },
+    {
+      "group": "🌍 Spoken Languages",
+      "chips": [
+        "English",
+        "German",
+        "Italian",
+        "French"
+      ]
+    }
+    ],
+   "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "field": "Computer Science",
+      "institution": "Alexandria University",
+      "grade": "Very Good",
+      "date": "2024 – 2028"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "IBM Data Fundamentals",
+      "issuer": "IBM",
+      "date": "August 2026"
+    },
+    {
+      "name": "Cloud Foundations",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "April 2026"
+    },
+    {
+      "name": "Microsoft Office Specialist",
+      "issuer": "Microsoft",
+      "date": "June 2025"
+    }
+  ], 
+  "interests": [
+    {
+      "icon": "zmdi-translate",
+      "label": "Languages"
+    },
+    {
+      "icon": "zmdi-library",
+      "label": "Reading"
+    },
+    {
+      "icon": "zmdi-gamepad",
+      "label": "Gaming"
+    },
+    {
+      "icon": "zmdi-run",
+      "label": "Sports"
+    },
+    {
+      "icon": "zmdi-airplane",
+      "label": "Travelling"
+    },
+    {
+      "icon": "zmdi-code",
+      "label": "Coding"
+    }
+  ],
+    "repos": [
+        {
+           "name": "Global-Socio-Economic-Health-Analytics-Dashboard",
+           "url": "https://github.com/ahmedfathallahz/Global-Socio-Economic-Health-Analytics-Dashboard",
+           "description": "Comprehensive multi-page interactive Power BI dashboard analyzing global socio-economic, health, and demographic indicators with an optimized data model.",
+           "banner": "https://github.com/ahmedfathallahz/Global-Socio-Economic-Health-Analytics-Dashboard/blob/main/Executive%20Overview.png?raw=true",
+           "color": "#F2C811",
+           "lang": "Power BI",
+           "date": "2026-08-20",
+           "stars": 0,
+           "forks": 0,
+           "generatedOn": "2026-08-20"
+        },
+        {
+            "name": "End-to-End-Sales-Logistics-Executive-Performance-Analytics",
+            "url": "https://github.com/ahmedfathallahz/End-to-End-Sales-Logistics-and-Executive-Performance-Analytics",
+            "description": "Comprehensive end-to-end BI solution analyzing sales and logistics with a robust Star Schema data model, advanced DAX measures, and Power Query transformations.",
+            "banner": "https://github.com/ahmedfathallahz/End-to-End-Sales-Logistics-and-Executive-Performance-Analytics/raw/main/Overview%20.png",
+            "color": "#F2C811",
+            "lang": "Power BI",
+            "date": "2026-08-15",
+            "stars": 0,
+            "forks": 0,
+            "generatedOn": "2026-08-15"
+        },
+        {
+           "name": "Global-Sales-Logistics-Order-Status-Analytics-Dashboard",
+           "url": "https://github.com/ahmedfathallahz/Global-Sales-Logistics-Order-Status-Analytics-Dashboard",
+           "description": "Comprehensive Power BI analytics solution focusing on global sales tracking, order fulfillment status, and logistics performance with a robust Star Schema data model.",
+           "banner": "https://github.com/ahmedfathallahz/Global-Sales-Logistics-Order-Status-Analytics-Dashboard/raw/main/Global%20Sales,%20Logistics%20.png",
+           "color": "#F2C811",
+           "lang": "Power BI",
+           "date": "2026-08-15",
+           "stars": 0,
+           "forks": 0,
+           "generatedOn": "2026-08-15"
+        },
+        {
+           "name": "Sales-Net-Profit-Performance-Dashboard",
+           "url": "https://github.com/ahmedfathallahz/-Sales-Net-Profit-Performance-Dashboard",
+           "description": "Interactive Power BI dashboard monitoring high-level business performance, tracking total sales, net profit, regional distribution, and top product profitability.",
+           "banner": "https://github.com/ahmedfathallahz/-Sales-Net-Profit-Performance-Dashboard/raw/main/Sales%20&%20Net%20Profit%20Performance%20Dashboard.png",
+           "color": "#F2C811",
+           "lang": "Power BI",
+           "date": "2026-08-12",
+           "stars": 0,
+           "forks": 0,
+           "generatedOn": "2026-08-12"
+        },
+        {
+           "name": "Advanced-Sales-Workforce-Analytics-Dashboard",
+           "url": "https://github.com/ahmedfathallahz/Advanced-Sales-Workforce-Analytics-Dashboard",
+           "description": "Professional Excel dashboard utilizing Power Query for ETL processes, tracking sales team productivity, regional performance, and key financial metrics.",
+           "banner": "https://github.com/ahmedfathallahz/Advanced-Sales-Workforce-Analytics-Dashboard/raw/main/Advanced%20Sales%20%26%20Workforce%20Analytics%20Dashboard%20(Excel%20%26%20Power%20Query).png",
+           "color": "#217346",
+           "lang": "Excel",
+           "date": "2026-08-10",
+           "stars": 0,
+           "forks": 0,
+           "generatedOn": "2026-08-10"
+        },
+        {
+           "name": "Sales-Team-Productivity-Returns-Analytics-Dashboard",
+           "url": "https://github.com/ahmedfathallahz/Sales-Team-Productivity-Returns-Analytics-Dashboard",
+           "description": "Comprehensive performance analytics and sales-tracking dashboard within Microsoft Excel, utilizing Power Query and a relational data model to manage orders and returns.",
+           "banner": "https://github.com/ahmedfathallahz/Sales-Team-Productivity-Returns-Analytics-Dashboard/raw/main/Sales%20Team%20Productivity%20%26%20Returns%20Analytics%20Dashboard.png",
+           "color": "#217346",
+           "lang": "Excel",
+           "date": "2026-08-10",
+           "stars": 0,
+           "forks": 0,
+           "generatedOn": "2026-08-10"
+        }
+
+
+
+
+
+    ],
+    "contact": [
+        {
+            "id": "tt8",
+            "class": "linkedin-link",
+            "icon": "zmdi-linkedin",
+            "url": "https://www.linkedin.com/in/ahmedfathallahz/",
+            "label": "linkedin"
+        },
+        {
+            "id": "tt9",
+            "class": "github-link",
+            "icon": "zmdi-github",
+            "url": "https://www.github.com/ahmedfathallahz/",
+            "label": "github"
+        }
+    ]
+}
