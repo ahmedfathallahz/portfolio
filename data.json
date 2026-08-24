@@ -6,32 +6,32 @@
         "resume": "https://drive.google.com/file/d/1C508-M3YyECxx2y5EfLnvGxQeZNmQmTZ/view?usp=drive_link",
         "details": [
            {
-                "emoji": "badge",
+                "emoji": "<i class='material-icons'>badge</i>",
                 "label": "Current Role",
                 "value": "ML Engineer • Data Analyst"
             },
             {
-                "emoji": "work_history",
+                "emoji": "<i class='material-icons'>work_history</i>",
                 "label": "Experience",
                 "value": "+2 years"
             },
             {
-                "emoji": "location_on",
+                "emoji": "<i class='material-icons'>location_on</i>",
                 "label": "Location",
                 "value": "Alexandria, Egypt"
             },
             {
-                "emoji": "analytics",
+                "emoji": "<i class='material-icons'>analytics</i>",
                 "label": "Data Analysis",
                 "value": "Excel, SQL, python, Tableau, Power BI"
             },
             {
-                "emoji": "psychology",
+                "emoji": "<i class='material-icons'>psychology</i>",
                 "label": "Machine Learning",
                 "value": "Scikit-Learn, Statsmodels, Ensemble Methods, Predictive Models, Feature Engineering"
             },
             {
-                "emoji": "track_changes",
+                "emoji": "<i class='material-icons'>track_changes</i>",
                 "label": "Objective",
                 "value": "Predictive Modeling • Data-Driven Insights • Business Intelligence"
             }
