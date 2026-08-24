@@ -22,12 +22,12 @@
             {
                 "emoji": "<i class='material-icons'>analytics</i>",
                 "label": "Data Analysis",
-                "value": "Excel, SQL, python, Tableau, Power BI"
+                "value": "Excel • SQL • python • Tableau • Power BI"
             },
             {
                 "emoji": "<i class='material-icons'>psychology</i>",
                 "label": "Machine Learning",
-                "value": "Scikit-Learn, Statsmodels, Ensemble Methods, Predictive Models, Feature Engineering"
+                "value": "Scikit-Learn • Statsmodels • Ensemble Methods • Predictive Models • Grid Search • Feature Engineering"
             },
             {
                 "emoji": "<i class='material-icons'>track_changes</i>",
@@ -128,6 +128,7 @@
         "LightGBM",
         "CatBoost",
         "Statsmodels",
+        "Grid Search",
         "Ensemble Methods",
         "Feature Engineering",
         "Hyperparameter Tuning",
