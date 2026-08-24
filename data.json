@@ -205,6 +205,8 @@
       "date": "June 2025"
     }
   ], 
+  "interests": [
+  ],
     "repos": [
         {
            "name": "Global-Socio-Economic-Health-Analytics-Dashboard",
