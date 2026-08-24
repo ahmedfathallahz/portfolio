@@ -60,7 +60,7 @@
       "description": "Empowering strategic decision-making by transforming complex, fragmented datasets into clear, actionable intelligence. Specializing in end-to-end data workflows, advanced collection, preprocessing, and exploratory analysis using Python, SQL, Excel, and Power Query. Combining statistical methodologies with high-impact visual storytelling through dynamic dashboards in Power BI and Tableau to bridge raw metrics with business growth."
     },
     {
-      "icon": "zmdi-settings",
+      "icon": "zmdi-spsychology",
       "iconColor": "font-green",
       "title": "Machine Learning Engineer",
       "description": "Architecting and deploying scalable, applied machine learning solutions tailored for real-world search and analytics ecosystems. Building robust computational pipelines focused on advanced techniques including embeddings, clustering, intent classification, and opportunity scoring. Designing insight-to-action architectures that seamlessly connect predictive algorithms with strategic execution."
