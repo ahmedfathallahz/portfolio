@@ -101,7 +101,7 @@
     ],
   "skills": [
     {
-      "group": "📊 Data Analyst",
+      "group": "<i class='material-icons'>analytics</i Data Analyst",
       "chips": [
         "SQL",
         "SAS",
@@ -122,7 +122,7 @@
 ]
     },
     {
-      "group": "🤖 Machine Learning",
+      "group": "<i class='material-icons'>psychology</i> Machine Learning",
       "chips": [
         "Scikit-learn",
         "XGBoost",
@@ -137,7 +137,7 @@
 ]
     },
     {
-      "group": "💻 Languages",
+      "group": "<i class='material-icons'>code</i> Languages",
       "chips": [
         "Python",
         "R",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "group": "🧠 Skills",
+      "group": "<i class='material-icons'>military_tech</i> Skills",
       "chips": [
        "Problem Solving",
        "Critical Thinking",
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "group": "🌍 Spoken Languages",
+      "group": "<i class='material-icons'>language</i> Spoken Languages",
       "chips": [
         "English",
         "German",
