@@ -252,11 +252,6 @@ p  { font-size: 15px; line-height: 1.7; }
 .profile-sec .mdl-card { transition: transform 0.2s ease, box-shadow 0.2s ease; }
 .profile-sec .mdl-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px var(--shadow); }
 
-/* ── Interests ── */
-.interest-sec .mdl-card i { font-size: 30px; display: block; color: var(--primary) !important; }
-.interest-sec .mdl-card span { display: block; text-transform: capitalize; margin-top: 25px; color: var(--text); }
-.interest-sec .mdl-card { transition: transform 0.2s ease; }
-.interest-sec .mdl-card:hover { transform: translateY(-3px); }
 
 /* ── Experience Timeline ── */
 .experience-sec .timeline { position: relative; padding-left: 30px; }
