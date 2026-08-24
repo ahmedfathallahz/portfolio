@@ -6,32 +6,32 @@
         "resume": "https://drive.google.com/file/d/1C508-M3YyECxx2y5EfLnvGxQeZNmQmTZ/view?usp=drive_link",
         "details": [
            {
-                "icon": "badge",
+                "emoji": "badge",
                 "label": "Current Role",
                 "value": "ML Engineer • Data Analyst"
             },
             {
-                "icon": "work_history",
+                "emoji": "work_history",
                 "label": "Experience",
                 "value": "+2 years"
             },
             {
-                "icon": "location_on",
+                "emoji": "location_on",
                 "label": "Location",
                 "value": "Alexandria, Egypt"
             },
             {
-                "icon": "analytics",
+                "emoji": "analytics",
                 "label": "Data Analysis",
                 "value": "Excel, SQL, python, Tableau, Power BI"
             },
             {
-                "icon": "psychology",
+                "emoji": "psychology",
                 "label": "Machine Learning",
                 "value": "Scikit-Learn, Statsmodels, Ensemble Methods, Predictive Models, Feature Engineering"
             },
             {
-                "icon": "track_changes",
+                "emoji": "track_changes",
                 "label": "Objective",
                 "value": "Predictive Modeling • Data-Driven Insights • Business Intelligence"
             }
