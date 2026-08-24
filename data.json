@@ -205,32 +205,6 @@
       "date": "June 2025"
     }
   ], 
-  "interests": [
-    {
-      "icon": "zmdi-translate",
-      "label": "Languages"
-    },
-    {
-      "icon": "zmdi-library",
-      "label": "Reading"
-    },
-    {
-      "icon": "zmdi-gamepad",
-      "label": "Gaming"
-    },
-    {
-      "icon": "zmdi-run",
-      "label": "Sports"
-    },
-    {
-      "icon": "zmdi-airplane",
-      "label": "Travelling"
-    },
-    {
-      "icon": "zmdi-code",
-      "label": "Coding"
-    }
-  ],
     "repos": [
         {
            "name": "Global-Socio-Economic-Health-Analytics-Dashboard",
