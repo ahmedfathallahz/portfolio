@@ -23,17 +23,17 @@
             {
                 "emoji": "📊",
                 "label": "Data Analysis",
-                "value": "Excel, SQL, python , Tableau, Power BI"
+                "value": "Excel, SQL, python, Tableau, Power BI"
             },
             {
                 "emoji": "🤖",
                 "label": "Machine Learning",
-                "value": "Scikit-Learn, Statsmodels, Ensemble Methods , Predictive Models, Feature Engineering"
+                "value": "Scikit-Learn, Statsmodels, Ensemble Methods, Predictive Models, Feature Engineering"
             },
             {
                 "emoji": "🎯",
                 "label": "Objective",
-                "value": "Decision Support • KPI Optimization • Insights"
+                "value": "Predictive Modeling • Data-Driven Insights • Business Intelligence"
             }
         ],
         "social": [
