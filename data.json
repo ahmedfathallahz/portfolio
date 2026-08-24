@@ -124,30 +124,16 @@
     {
       "group": "🤖 Machine Learning",
       "chips": [
-        "Deep Learning",
-        "Computer Vision",
-        "NLP (Natural Language Processing)",
         "Scikit-learn",
-        "TensorFlow",
-        "PyTorch",
-        "Keras",
         "XGBoost",
         "LightGBM",
         "CatBoost",
         "Statsmodels",
-        "Hugging Face Transformers",
-        "OpenCV",
-        "NLTK",
-        "Spacy",
-        "Reinforcement Learning",
         "Ensemble Methods",
+        "Feature Engineering",
         "Hyperparameter Tuning",
-        "Dimensionality Reduction (PCA/LDA)",
         "Model Evaluation & Validation",
-        "Neural Networks",
-        "Transfer Learning",
-        "Model Deployment",
-        "Feature Engineering"
+        "Model Deployment"
 ]
     },
     {
