@@ -7,7 +7,6 @@ fetch("data.json")
         renderSkills(d.skills);
         renderEducation(d.education);
         renderCertifications(d.certifications);
-        renderInterests(d.interests);
         renderRepos(d.repos);
         renderContact(d.contact);
         if (window.componentHandler) componentHandler.upgradeDom();
@@ -132,19 +131,6 @@ function renderCertifications(certs) {
         .join("");
 }
 
-function renderInterests(items) {
-    document.getElementById("interests-grid").innerHTML = items
-        .map(
-            i =>
-                `<div class="col-md-2 col-sm-4 col-xs-6 mb-30">
-          <div class="mdl-card mdl-shadow--2dp text-center pa-20 pt-30 pb-30">
-            <i class="zmdi ${i.icon}"></i>
-            <span>${i.label}</span>
-          </div>
-        </div>`
-        )
-        .join("");
-}
 
 function renderContact(links) {
     document.getElementById("contact-icons").innerHTML = links
