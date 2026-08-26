@@ -75,7 +75,7 @@
     "experience": [
         {
             "company": "Digital Egypt Pioneers Initiative | DEPI",
-            "role": "Data Analyst",
+            "role": "Data Analyst Intern",
             "location": "Egypt",
             "period": "2026 – current",
             "current": true,
@@ -83,7 +83,7 @@
         },
         {
             "company": "National Telecommunication Institute | NTI",
-            "role": "Data Analyst",
+            "role": "Data Analyst Intern",
             "location": "Egypt",
             "period": "2026 – 2026",
             "current": false,
@@ -91,7 +91,7 @@
         },
         {
             "company": "FlyRank Corp",
-            "role": "ML Engineer",
+            "role": "ML Engineer Intern",
             "location": "Remote",
             "period": "2026 – 2026",
             "current": false,
