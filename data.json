@@ -22,7 +22,7 @@
             {
                 "emoji": "<i class='material-icons'>analytics</i>",
                 "label": "Data Analysis",
-                "value": "Excel • SQL • python • Tableau • Power BI"
+                "value": "Excel • SQL • python • Tableau • Power BI • Looker Studio"
             },
             {
                 "emoji": "<i class='material-icons'>psychology</i>",
@@ -57,7 +57,7 @@
       "icon": "zmdi-chart",
       "iconColor": "font-blue",
       "title": "Data Analyst",
-      "description": "Empowering strategic decision-making by transforming complex, fragmented datasets into clear, actionable intelligence. Specializing in end-to-end data workflows, advanced collection, preprocessing, and exploratory analysis using Python, SQL, Excel, and Power Query. Combining statistical methodologies with high-impact visual storytelling through dynamic dashboards in Power BI and Tableau to bridge raw metrics with business growth."
+      "description": "Empowering strategic decision-making by transforming complex, fragmented datasets into clear, actionable intelligence. Specializing in end-to-end data workflows, advanced collection, preprocessing, and exploratory analysis using Python, SQL, Excel, and Power Query. Combining statistical methodologies with high-impact visual storytelling through dynamic dashboards in Power BI, Looker Studio and Tableau to bridge raw metrics with business growth."
     },
     {
       "icon": "zmdi-settings",
@@ -79,7 +79,7 @@
             "location": "Egypt",
             "period": "2026 – current",
             "current": true,
-            "description": "Leveraging advanced tools including Excel, Power Query, and Python to execute comprehensive data collection, cleaning, and preprocessing workflows, utilizing SQL for robust data extraction and transformation. Developed dynamic visualizations, dashboards, and analytical reports using Power BI and Tableau. Applied statistical techniques and exploratory data analysis to generate actionable insights and support strategic decision-making, while integrating data governance, prompt engineering, and end-to-end execution through practical projects."
+            "description": "Leveraging advanced tools including Excel, Power Query, and Python to execute comprehensive data collection, cleaning, and preprocessing workflows, utilizing SQL for robust data extraction and transformation. Developed dynamic visualizations, dashboards, and analytical reports using Power BI, Looker Studio and Tableau. Applied statistical techniques and exploratory data analysis to generate actionable insights and support strategic decision-making, while integrating data governance, prompt engineering, and end-to-end execution through practical projects."
         },
         {
             "company": "National Telecommunication Institute | NTI",
@@ -106,6 +106,7 @@
         "SAS",
         "Tableau",
         "Power BI",
+        "Looker Studio",
         "Microsoft Excel",
         "Pandas",
         "NumPy",
