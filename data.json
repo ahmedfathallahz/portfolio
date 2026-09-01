@@ -2,7 +2,7 @@
     "about": {
         "name": "Ahmed Fathallah",
         "avatar": "imgavatar.jpg",
-        "resume": "https://drive.google.com/file/d/1nZn1t8IuVByJDXFwWs24VnOjqOQJw5ZE/view?usp=drive_link",
+        "resume": "https://drive.google.com/file/d/1QeGffjwB_wtrmimnLV04RF9vEVhJir9R/view?usp=drive_link",
         "details": [
            {
                 "emoji": "<i class='material-icons'>badge</i>",
@@ -293,6 +293,7 @@
 
     ],
     "contact": [
+
         {
             "id": "tt8",
             "class": "linkedin-link",
