@@ -31,7 +31,7 @@
             },
             {
                 "emoji": "<i class='material-icons'>track_changes</i>",
-                "label": "Objective",
+                "label": "Summary",
                 "value": "Bridging the gap between complex data and real-world execution, turning analytical insights into predictive foresight."
             }
         ],
