@@ -7,7 +7,7 @@
            {
                 "emoji": "<i class='material-icons'>badge</i>",
                 "label": "Current Role",
-                "value": "ML Engineer • Data Analyst"
+                "value": "Data Analyst • ML Engineer"
             },
             {
                 "emoji": "<i class='material-icons'>work_history</i>",
@@ -190,6 +190,11 @@
     }
   ],
   "certifications": [
+    {
+      "name": "BI and Analytics with Looker",
+      "issuer": "Google Cloud Skills Boost",
+      "date": "September 2026"
+    },
     {
       "name": "IBM Data Fundamentals",
       "issuer": "IBM",
